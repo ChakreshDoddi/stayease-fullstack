@@ -1,0 +1,43 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node
+node_modules/
+dist/
+build/
+.npm
+
+# Environment files
+.env
+.env.local
+.env.*.local
+application-local.yml
+stayease-backend/src/main/resources/application.yml
+stayease-backend/src/main/resources/application-*.yml
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+*.lcov
+
+# Temporary files
+tmp/
+temp/
