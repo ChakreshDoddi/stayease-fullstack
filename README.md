@@ -1,3 +1,11 @@
+## ⚡ TLDR
+**StayEase** is a full-stack booking platform where users can discover stays and **book a specific bed** (beds are the source of truth).
+
+- ✅ Auth: JWT (Spring Security)
+- ✅ Core flows: Search → Availability → Booking → Manage
+- ✅ Stack: Spring Boot + MySQL + React/TypeScript
+- 🎥 Video: https://drive.google.com/file/d/1a-C8J8ZSEX8yvJZoFT32r8Mvv5ltH30C/view?usp=sharing
+
 StayEase
 ========
 
